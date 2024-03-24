@@ -79,7 +79,7 @@ function App() {
       {
         <div>
           <div className="head">
-            <h2>available shows is:</h2>
+            <h2>available shows are:</h2>
             <div className="search">
               <input
                 className="input"
